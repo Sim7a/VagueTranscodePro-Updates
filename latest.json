@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "",
-  "sha256": "",
-  "releaseNotes": "Update system setup. No update published yet."
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/Sim7a/VagueTranscodePro-Updates/releases/download/v1.0.1/VAGUE_TRANSCODE_PRO-debug.apk",
+  "sha256": "2c0f0ab4f2ad07e642c0055662631eff3fb646a5490e4530038113f99af289a6",
+  "releaseNotes": "أول إصدار لنظام التحديث التلقائي."
 }
