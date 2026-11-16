@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/Sim7a/VagueTranscodePro-Updates/releases/download/v1.0.1/VAGUE_TRANSCODE_PRO-debug.apk",
-  "sha256": "2c0f0ab4f2ad07e642c0055662631eff3fb646a5490e4530038113f99af289a6",
-  "releaseNotes": "أول إصدار لنظام التحديث التلقائي."
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/Sim7a/VagueTranscodePro-Updates/releases/download/v1.0.2/VAGUE_TRANSCODE_PRO-debug.apk",
+  "sha256": "c261fb596aff85142b5a05af9b757293288707487a46155221be904fed1e4c12",
+  "releaseNotes": "تحسين حماية التنزيل والتحقق من SHA-256 والتوقيع."
 }
